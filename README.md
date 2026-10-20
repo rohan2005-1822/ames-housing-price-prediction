@@ -98,3 +98,7 @@ The predicted price is a machine learning estimate, not a guaranteed market or s
 ## 👨‍💻 Author
 
 Developed as a machine learning project to practice regression, model evaluation, and deployment.
+
+## 📸 Application Screenshot
+
+![Ames House Price Prediction App](images/house-price-prediction.png)
